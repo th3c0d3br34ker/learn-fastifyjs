@@ -1,5 +1,7 @@
 # Learn Fastify
 
+![](https://www.fastify.io/images/fastify-logo-inverted.2180cc6b1919d47a.png)
+
 [Fastify](https://www.fastify.io/) Fast and low overhead web framework, for Node.js.
 
 These are the main features and principles on which fastify has been built:

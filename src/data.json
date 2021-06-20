@@ -1,0 +1,24 @@
+{
+  "fruits": [
+    {
+      "id": 0,
+      "name": "mango",
+      "value": "🥭"
+    },
+    {
+      "id": 1,
+      "name": "apple",
+      "value": "🍎"
+    },
+    {
+      "id": 2,
+      "name": "banana",
+      "value": "🍌"
+    },
+    {
+      "id": 3,
+      "name": "avocado",
+      "value": "🥑"
+    }
+  ]
+}

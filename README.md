@@ -69,8 +69,6 @@ Success Response:
   "success": true,
   "message": "Fruits sent successfully",
   "error": "",
-
-  "error": "",
   "data": {
     "fruits": [
       {
